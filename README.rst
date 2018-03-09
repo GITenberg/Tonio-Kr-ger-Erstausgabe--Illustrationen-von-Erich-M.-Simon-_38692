@@ -3,7 +3,7 @@ Tonio Kröger[Erstausgabe; Illustrationen von Erich M. Simon]
 =====================
 
 
-This is a git repository of the source files for the book Tonio Kröger[Erstausgabe; Illustrationen von Erich M. Simon] by Simon, Erich M. Mann, Thomas. This book is in the Public Domain, see the LICENSE file for details.
+This is a git repository of the source files for the book Tonio Kröger[Erstausgabe; Illustrationen von Erich M. Simon]  Thomas Mann. This book is in the Public Domain in the United States, see the LICENSE file for details. This book may not be in the Public Domain in Germany until 2026.
 
 Found an error?
 ===============
