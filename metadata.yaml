@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4200
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Mann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38692#Tonio-Kr-ger-Erstausgabe--Illustrationen-von-Erich-M.-Simon-
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-01-27'
 gutenberg_type: Text
